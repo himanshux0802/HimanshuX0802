@@ -11,7 +11,7 @@
   Open-source web projects, front-end or full-stack development initiatives, or anything that pushes my coding skills to the next level.  
 
 - 📫 How to reach me  
-  Connect with me on [LinkedIn](https://www.linkedin.com/in/himanshu-singh-0802) | Email: himanshux0802@gmail.com | X: [@skyler7905](https://x.com/skyler7905)  
+  Connect with me on  | Email: himanshux0802@gmail.com  
 
 - 😄 Pronouns  
   He/Him  
