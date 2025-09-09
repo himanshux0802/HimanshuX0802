@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HimanshuX0802  
-  I’m a final-year MCA student passionate about building web applications and solving real-world problems through code.  
+  I’m a   passionate about building web applications and solving real-world problems through code.  
 
 - 👀 I’m interested in  
   Web development, full-stack solutions, and exploring modern frameworks like React and Node.js to create efficient, user-friendly applications.  
